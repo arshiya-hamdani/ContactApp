@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contactrv" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="profileimg" type="id" />
+    <item name="contactimg" type="id" />
+    <item name="contact_name" type="id" />
+    <item name="numberdial" type="id" />
+    <item name="contact_edit" type="id" />
+    <item name="contact_delete" type="id">\</item>
+</resources>

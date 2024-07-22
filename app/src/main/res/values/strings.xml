@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="name">Name</string>
+    <string name="Phone">\n</string>
+    <string name="Email" />
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="table_created_successfully">"Table created successfully: "</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="Contact_App" />
+    <string name="arshiya">Arshiya</string>
+    <string name="Mobile">phone</string>
+    <string name="Email_Address">Email</string>
+    <string name="added_time">Added time</string>
+    <string name="updated_time">Updated time</string>
+    <string name="edit">Edit</string>
+    <string name="Delete" />
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete All</string>
+    <string name="Contacts" />
+    <string name="sort_by_name">Sort by Name</string>
+    <string name="sort_by_phone">Sort by Phone</string>
+</resources>
